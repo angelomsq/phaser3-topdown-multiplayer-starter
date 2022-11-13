@@ -1,0 +1,1 @@
+Skel_idle_left_01.png.png 3 0, Skel_idle_left_02.png.png 19 0, Skel_idle_left_03.png.png 35 0, Skel_idle_left_04.png.png 51 0, Skel_idle_left_05.png.png 67 0, Skel_idle_left_06.png.png 83 0.

@@ -1,0 +1,16 @@
+{
+  "name": "phaser3-topdown-multiplayer-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Angelo Queiroz",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3",
+    "socket.io": "^2.3.0"
+  }
+}
